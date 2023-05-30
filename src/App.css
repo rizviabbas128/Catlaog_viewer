@@ -1,0 +1,59 @@
+.App {
+ text-align: center;
+}
+
+
+/* Home page css is applied here */
+.home{
+  margin: 200px 20px 50px;
+ max-width: 70%;
+ min-width: 20%;
+ max-height: 40%;
+}
+
+
+/* Left top image css is applied here */
+.left-top-content{
+/* background: blue; */
+/* height: 400px; */
+/* margin: 20px 60px; */
+}
+
+/* Image */
+.responsive{
+  width: 100%;
+  height:auto;
+  margin: 20px;
+  border-radius: 12px;
+}
+
+
+
+/*Bottom Left content */
+
+.left-bottom{
+  margin: 5px 20px;
+  width: 100%;
+}
+
+.responsive-bottom{
+  width: 70%;
+  height:100%;
+  /* margin: 0px 10px; */
+  border-radius: 5px;
+}
+
+
+/* Right Content CSS is Here  */
+.right-content{
+  margin:30px;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+}
+
+.description{
+  width: 100%;
+  height: auto;
+
+}
